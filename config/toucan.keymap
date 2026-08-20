@@ -38,7 +38,7 @@
         sym {
             display-name = "SYM";
             bindings = <
-&msc SCRL_UP  &trans  &kp UP_ARROW  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &msc SCRL_DOWN  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp LC(LEFT_ARROW)  &kp LG(LEFT_ARROW)  &kp LG(RIGHT_ARROW)  &kp LC(RIGHT_ARROW)  &trans  &trans  &trans  &trans  &studio_unlock  &trans  &trans  &trans  &kp LC(SPACE)  &kp LANGUAGE_5  &trans  &trans  &trans  &trans  &trans  &trans  &kp LGUI  &trans  &mkp LCLK  &kp BACKSPACE  &trans  &trans
+&msc SCRL_UP  &trans  &kp UP_ARROW  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &msc SCRL_DOWN  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp LC(LEFT_ARROW)  &kp LG(LEFT_ARROW)  &kp LG(RIGHT_ARROW)  &kp LC(RIGHT_ARROW)  &trans  &trans  &trans  &trans  &studio_unlock  &trans  &trans  &trans  &kp LC(SPACE)  &kp LA(GRAVE)  &trans  &trans  &trans  &trans  &trans  &trans  &kp LGUI  &trans  &mkp LCLK  &kp BACKSPACE  &trans  &trans
             >;
         };
 
